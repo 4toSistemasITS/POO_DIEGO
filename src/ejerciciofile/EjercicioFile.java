@@ -51,7 +51,7 @@ public class EjercicioFile {
 //            Logger.getLogger(EjercicioFile.class.getName()).log(Level.SEVERE, null, ex);
 //            System.out.println(ex);
         } catch (IOException ex) {
-            Logger.getLogger(EjercicioFile.class.getName()).log(Level.SEVERE, null, ex);
+            //Logger.getLogger(EjercicioFile.class.getName()).log(Level.SEVERE, null, ex);
             System.out.println(ex);
         }
         
